@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **contact.lukasz.bajkowski@gmail.com**
 
+- 🎯 Goals: 
+- Get a job as a frontend developer,
+- Do a live demo for Lingo and Banknote-Blog.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lukaszbajkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukaszbajkowski" height="30" width="40" /></a>
