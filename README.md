@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋</h1>
-<h3 align="left">My name is Łukasz. I'm a passionate frontend developer from Poland.</h3>
-
+<h4 align="left">My name is Łukasz. I'm a passionate frontend developer from Poland.</h4>
+<h2 align="left">About me</h2>
 - 🔭 I’m currently working on [Lingo](https://github.com/lukaszbajkowski/Lingo)
 
 - 🌱 I’m currently learning **MERN**
