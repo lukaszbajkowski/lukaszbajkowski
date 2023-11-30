@@ -12,8 +12,8 @@
 - 📫 How to reach me **contact.lukasz.bajkowski@gmail.com**
 
 - 🎯 Goals: 
-- Get a job as a frontend developer,
-- Do a live demo for Lingo and Banknote-Blog.
+  - Get a job as a frontend developer,
+  - Do a live demo for Lingo and Banknote-Blog.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
